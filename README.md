@@ -6,3 +6,6 @@
 ### How to use?
 - python prepare_data.py
 - python main_lcsts.py
+
+### Other versions
+- https://github.com/toru34/li_emnlp_2017
